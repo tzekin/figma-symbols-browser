@@ -135,10 +135,10 @@ function fontFamilyAndStyle(symbolType, symbolStyle){
       tempFontName.family = 'Font Awesome 5 Brands'
       tempFontName.style = "Regular"
     }else if(symbolStyle == 'solid'){
-      tempFontName.family = 'Font Awesome 5 Free'
+      tempFontName.family = 'Font Awesome 5 Pro'
       tempFontName.style = "Solid"
     }else if(symbolStyle == 'regular'){
-      tempFontName.family = 'Font Awesome 5 Free'
+      tempFontName.family = 'Font Awesome 5 Pro'
       tempFontName.style = "Regular"
     }
   }
