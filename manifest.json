@@ -1,7 +1,10 @@
 {
-  "name": "Symbol Icons Browser",
+  "name": "Symbol Icons Browser – RnD",
   "id": "770570903162993974",
   "api": "1.0.0",
   "main": "code.js",
+  "editorType": [
+    "figma"
+  ],
   "ui": "ui.html"
 }
